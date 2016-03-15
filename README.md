@@ -1,6 +1,6 @@
 Pre-requisites:
-Must have Mongodb installed
-Must have node installed
+Must have Mongodb installed -> https://www.mongodb.org/downloads#production
+Must have node installed -> https://nodejs.org/en/download/
 
 To Run:
 - In one terminal window run: mkdir ~/.mongo_data/icitizen-map && mongod --dbpath ~/.mongo_data/icitizen-map
