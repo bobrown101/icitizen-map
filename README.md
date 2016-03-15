@@ -7,6 +7,6 @@ To Run:
 - In the other do the following:
     - cd ~/Developer
     - git clone git@github.com:bobrown101/icitizen-map.git
-    - cd cd icitizen-map
+    - cd ./icitizen-map
     - npm install
     - gulp
